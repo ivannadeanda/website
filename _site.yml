@@ -1,0 +1,9 @@
+name: "Ivanna de Anda"
+navbar:
+  title: "Ivanna de Anda"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: docs     
