@@ -1,0 +1,18 @@
+/* Default font */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+
+header {
+  font-family: 'Cormorant+Garamond';
+}
+
+/* Default link color */
+a {
+  color: #6495ED;
+  text-decoration: none;
+}
+
+/* Hover state */
+a:hover {
+  color: #c4d7ff;
+  text-decoration: underline;
+}

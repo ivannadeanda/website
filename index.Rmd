@@ -4,11 +4,11 @@ title: "My Website"
 
 ::: columns
 ::: {.column width="50%" style="text-align: center;"}
-```{r, echo=FALSE, fig.align='left', out.width='80%'}
+### Ivanna de Anda
+```{r, echo=FALSE, fig.align='left', out.width='60%'}
 knitr::include_graphics("images/headshot.jpg")
 ```
 
-### Ivanna de Anda
 
 :::
 
