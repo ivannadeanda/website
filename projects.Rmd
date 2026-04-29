@@ -1,0 +1,18 @@
+---
+title: "Projects"
+---
+
+### [Greenspace and Heat Exposure Dashboard](https://ivannadeanda.shinyapps.io/ile_dashboard/)
+This is a dashboard that displays findings from some of the research I conducted for my Master's thesis.
+
+<div class="row">
+
+<div class="col-sm-6">
+<a href="https://ivannadeanda.shinyapps.io/ile_dashboard/" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Greenspace and Heat Exposure Dashboard</h3>
+</div>
+<div class="panel-body">
+<p>This is a dashboard that displays findings from some of the research I conducted for my Master's thesis.</p>
+</div>

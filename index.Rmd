@@ -2,8 +2,19 @@
 title: "My Website"
 ---
 
-Hello, Website!
+::: columns
+::: {.column width="50%" style="text-align: center;"}
+```{r, echo=FALSE, fig.align='left', out.width='80%'}
+knitr::include_graphics("images/headshot.jpg")
+```
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+### Ivanna de Anda
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+:::
+
+::: {.column width="50%" style="text-align: left;"}
+
+I am making a website :) Here is my dashboard:https://ivannadeanda.shinyapps.io/ile_dashboard/ 
+
+
+:::

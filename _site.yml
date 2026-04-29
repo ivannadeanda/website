@@ -6,4 +6,21 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Resume"
+      href: files/Resume_9.24.25.docx
+  right:
+    - href: https://www.linkedin.com/in/ivannadeanda/
+      icon: fa-brands fa-square-linkedin
+    - href: https://orcid.org/0009-0001-9511-1621
+      icon: fa-brands fa-orcid
+    
 output_dir: docs     
+
+output:
+  html_document:
+    theme: readable
+    css: style.css
+    includes:
+      in_header: header.html

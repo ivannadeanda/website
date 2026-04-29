@@ -2,4 +2,14 @@
 title: "About This Website"
 ---
 
-More about this website.
+Ivanna de Anda, MPH
+
+I am a recent graduate from Emory University, where I received my Masters Degree in Public Health, focusing on Environmental Epidemiology. During my time there, I also completed certificates in Data Science and Climate & Health.
+
+Prior to coming to Emory, I received her BA in Public Health-Global Health from the University of Washington.
+
+I am currently based in Portland, OR and interested in all things related to climate resilient communities, environmental data analysis, and built environment. 
+
+This site serves as a place to host my resume and a portfolio of my work over the years. 
+
+
