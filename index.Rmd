@@ -1,10 +1,10 @@
 ---
-title: "My Website"
+title: "Hello!"
 ---
 
 ::: columns
 ::: {.column width="50%" style="text-align: center;"}
-### Ivanna de Anda
+
 ```{r, echo=FALSE, fig.align='left', out.width='60%'}
 knitr::include_graphics("images/headshot.jpg")
 ```
@@ -14,7 +14,11 @@ knitr::include_graphics("images/headshot.jpg")
 
 ::: {.column width="50%" style="text-align: left;"}
 
-I am making a website :) Here is my dashboard:https://ivannadeanda.shinyapps.io/ile_dashboard/ 
+<div class="fade-in">
+Welcome to my website! :)
+</div>
+This site serves as a place to host my resume and a portfolio of my work over the years. 
 
+If you are interested in getting in touch, I can be reached at [ivanna.deanda@outlook.com](mailto:ivanna.deanda@outlook.com).
 
 :::

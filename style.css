@@ -16,3 +16,15 @@ a:hover {
   color: #c4d7ff;
   text-decoration: underline;
 }
+
+/* Background */
+body {
+  background: linear-gradient(
+    135deg,
+    #f7f9fc 0%,
+    #f0f4ff 35%,
+    #e6edff 65%,
+    #dbe6ff 100%
+  );
+  color: #2b2b2b;
+}

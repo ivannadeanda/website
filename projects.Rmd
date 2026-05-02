@@ -11,5 +11,5 @@ title: "Projects"
 <h3 class="panel-title">Greenspace and Heat Exposure Dashboard</h3>
 </div>
 <div class="panel-body">
-<p>This is a dashboard that displays findings from some of the research I conducted for my Master's thesis.</p>
+<p>My Master's thesis focused on characterizing the natural and built environments at different scales using high-resolution imagery and machine learning methods. This dashboard displays some of the results from my project.</p>
 </div>
